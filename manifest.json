@@ -1,13 +1,10 @@
 {
-	"id": "augmented-canvas",
-	"name": "Augmented Canvas",
-	"version": "0.1.20",
+	"id": "obsidian-augmented-canvas-gemini",
+	"name": "Augmented Canvas (Gemini)",
+	"version": "0.1",
 	"minAppVersion": "1.1.0",
-	"description": "Obsidian Canvas with AI features.",
-	"author": "MetaCorp",
-	"authorUrl": "https://github.com/MetaCorp",
-	"fundingUrl": {
-		"Buy Me a Coffee": "https://www.buymeacoffee.com/metacorp"
-	},
+	"description": "Obsidian Canvas with Gemini AI features.",
+	"author": "Sendarg",
+	"authorUrl": "https://github.com/Sendarg",
 	"isDesktopOnly": false
 }
